@@ -10,3 +10,7 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Adding objects to the scene
 * The different transformation options
 * Naming objects in the hierarchy
+* Introduction to the camera
+* Running a game
+* Using the different tools for movement, rotation, scale, rect, transforms and hand
+* Shortcut command + shit + f to move an object to the current position
