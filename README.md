@@ -29,3 +29,4 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Access modifiers
 * Public properties and objects
 * Standard methods like LateUpdate, Start, Update
+* Receiving input with the Input class
