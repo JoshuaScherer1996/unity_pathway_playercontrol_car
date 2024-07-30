@@ -28,3 +28,4 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Mesh collider for collision detection
 * Access modifiers
 * Public properties and objects
+* Standard methods like LateUpdate, Start, Update

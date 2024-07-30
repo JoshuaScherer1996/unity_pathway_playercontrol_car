@@ -14,8 +14,8 @@ public class FollowPlayer : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
+    // LateUpdate is called after the Update method. Makes sure that the camera doesn't stutter.
+    void LateUpdate()
     {
         // Offsetting the camera away from the players position by adding a new vector3 instance.
         transform.position = player.transform.position + _offset;
