@@ -26,4 +26,5 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Accessing standard libraries and packages for standard classes and methods
 * Simulating physics with components like the rigidbody
 * Mesh collider for collision detection
-* 
+* Access modifiers
+* Public properties and objects
