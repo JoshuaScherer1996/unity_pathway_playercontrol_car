@@ -14,6 +14,6 @@ public class PlayerControler : MonoBehaviour
     void Update()
     {
         // Move the vehicle forward
-        transform.Translate(Vector3.forward); // Vector3.forward is the same as 0,0,1
+        transform.Translate(Vector3.forward * (Time.deltaTime * 25)); // Time.deltaTime makes sure that we know when a second has passed and not a frame
     }
 }

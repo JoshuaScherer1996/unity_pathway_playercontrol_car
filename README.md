@@ -23,3 +23,4 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Using IDE's (I used Rider instead of Visual Studio since I am already used to JetBrains IDE'S)
 * Explanation of the Start and Update methods
 * Using properties like transform inside of C# to implement custom functionalities
+* Accessing standard libraries and packages for standard classes and methods
