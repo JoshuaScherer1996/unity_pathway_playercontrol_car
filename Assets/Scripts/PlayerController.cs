@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControler : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    // Initializing Variables
+    // Declaring and initializing Variables
     public float speed = 5.0f;
+    public float turnSpeed;
     
     // Start is called before the first frame update
     void Start()
@@ -18,5 +19,6 @@ public class PlayerControler : MonoBehaviour
     {
         // Move the vehicle forward
         transform.Translate(Vector3.forward * (Time.deltaTime * speed)); 
+        transform.Translate(Vector3.right * (Time.deltaTime * turnSpeed));
     }
 }
