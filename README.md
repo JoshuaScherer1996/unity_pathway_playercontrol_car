@@ -14,3 +14,12 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Running a game
 * Using the different tools for movement, rotation, scale, rect, transforms and hand
 * Shortcut command + shit + f to move an object to the current position
+* Changing the layout of the unity editor
+* Creating new folders
+* Creating C# scripts
+* Naming convention CamelCase
+* Adding components to game objects
+* Commenting code
+* Using IDE's (I used Rider instead of Visual Studio since I am already used to JetBrains IDE'S)
+* Explanation of the Start and Update methods
+* 
