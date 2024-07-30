@@ -7,3 +7,6 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Import Assets
 * Explanation of the different windows in the editor
 * Different shortcuts like F for focus, wasd for movement and command + Z to undo
+* Adding objects to the scene
+* The different transformation options
+* Naming objects in the hierarchy
