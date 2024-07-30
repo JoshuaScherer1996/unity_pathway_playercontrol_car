@@ -1,6 +1,9 @@
 # Unity Pathway Junior Programmer Projects
 
-Dieses Repository enthält das erste Projekt aus dem Unity Pathway "Junior Programmer". Ziel ist es, das Konzept Player Control zu verstehen und zu verwenden.
+This repository contains the first project from the Unity Pathway "Junior Programmer". The goal is to understand and implement the concept of Player Control.
 
-## Inhalte
-TBD
+## Topics
+* Create a 3D Project in Unity
+* Import Assets
+* Explanation of the different windows in the editor
+* Different shortcuts like F for focus and wasd for movement
