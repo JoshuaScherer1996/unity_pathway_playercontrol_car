@@ -24,3 +24,6 @@ This repository contains the first project from the Unity Pathway "Junior Progra
 * Explanation of the Start and Update methods
 * Using properties like transform inside of C# to implement custom functionalities
 * Accessing standard libraries and packages for standard classes and methods
+* Simulating physics with components like the rigidbody
+* Mesh collider for collision detection
+* 
