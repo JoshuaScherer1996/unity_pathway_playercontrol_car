@@ -7,7 +7,6 @@ public class CameraManager : MonoBehaviour
     public GameObject firstPersonCam;
     public GameObject player;
     private bool _isMainCamActive;
-    private readonly Vector3 _offsetFirstPerson = new (0, 2, 1);
     private readonly Vector3 _offsetMain = new (0, 5, -7);
     
     
