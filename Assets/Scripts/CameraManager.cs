@@ -31,10 +31,11 @@ public class CameraManager : MonoBehaviour
     // LateUpdate is called after the Update method. Makes sure that the camera doesn't stutter.
     private void LateUpdate()
     {
-        // Offsetting the camera away from the players position by adding  new vector3 instances.
-        mainCam.transform.position = player.transform.position + _offsetMain;
-        firstPersonCam.transform.position = player.transform.position + _offsetFirstPerson;
-        firstPersonCam.transform.rotation = player.transform.rotation;
+        // Offsetting the main camera away from the players position by adding a new vector3 instance.
+        if (_isMainCamActive)
+        {
+            mainCam.transform.position = player.transform.position + _offsetMain;
+        }
     }
     
     // Enables and disables the camera objects based on the current status of _isMainCamActive. Also changes said status.
