@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
     {
         // Getting the Player Input from the horizontal and vertical Axis.
         _horizontalInput = Input.GetAxis("Horizontal");
-        _forwardInput = Input.GetAxis("Vertical");
+        _forwardInput = Input.GetAxis("Vertical"); 
         
         // Moves the vehicle forward in relation to the input.
         transform.Translate(Vector3.forward * (Time.deltaTime * Speed * _forwardInput)); 
