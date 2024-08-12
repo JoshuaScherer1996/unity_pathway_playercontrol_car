@@ -3,7 +3,7 @@
 This repository contains the first project from the Unity Pathway "Junior Programmer". The goal is to understand and implement the concept of Player Control.
 
 ## Branch main
-This is the main branch of this chapter and shows the different topics covered step by step. There are also the [challenge](https://github.com/JoshuaScherer1996/unity_pathway_playercontrol_car/tree/challenge) and [local_multiplayer](https://github.com/JoshuaScherer1996/unity_pathway_playercontrol_car/tree/local_multiplayer) which each show how the different challenges given during this chapter were solved by me.
+This is the main branch of this chapter and shows the different topics covered step by step. There are also [challenge](https://github.com/JoshuaScherer1996/unity_pathway_playercontrol_car/tree/challenge) and [local_multiplayer](https://github.com/JoshuaScherer1996/unity_pathway_playercontrol_car/tree/local_multiplayer) which each show how the different challenges given during this chapter were solved by me.
 
 ## Topics covered
 * Create a 3D Project in Unity
